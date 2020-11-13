@@ -19,3 +19,4 @@ c. SELECT items.name, items.description, items.price, items.stock, items.categor
 
 Jawaban pada nomor 5:
 UPDATE items SET price=2500000 WHERE id=1;
+
